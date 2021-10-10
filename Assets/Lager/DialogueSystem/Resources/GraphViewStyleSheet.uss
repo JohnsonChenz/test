@@ -1,0 +1,77 @@
+.nameOfDialogurContainer {
+    margin-top: 3px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
+
+GridBackground {
+    --grid-background-color: rgb(40, 40, 40);
+    --line-color: rgba(193, 196, 192, 0.1);
+    --thick-line-color: rgba(193, 196, 192, 0.1);
+    --spacing: 10;
+}
+
+.speakerInfoContainer {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.buttonContainer {
+    background-color: rgb(40, 40, 40);
+    justify-content: flex-end;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.speakerInfoTypeEnumText {
+    -unity-text-align: middle-center;
+}
+
+.speakerInfoTypeEnumField {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.speakerInfoTextField {
+    width: auto;
+}
+
+.speakerInfoLabel
+{
+    -unity-text-align: middle-left;
+}
+
+.speakerInfoBox
+{
+    min-width : 115px;
+}
+
+.dialogueContainer {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    border-bottom-width: 4px;
+    border-top-width: 4px;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-bottom-color: rgb(161, 161, 161);
+    border-top-color: rgb(161, 161, 161);
+    border-left-color: rgb(161, 161, 161);
+    border-right-color: rgb(161, 161, 161);
+}
+
+#unity-text-input {
+    font-size: 18px;
+}
+
+.TextBox {
+    white-space: normal;
+    width: 340px;
+}

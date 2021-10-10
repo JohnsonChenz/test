@@ -1,0 +1,12 @@
+{
+  "name": "com.lager.dialogue-system",
+  "displayName": "DialogueSystem",
+  "description": "The DialogueSystem is a plugin to setup dialogue via graph node or excel sheets",
+  "version": "1.3.6",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {},
+  "author": {
+    "name": "wfto0000"
+  },
+}

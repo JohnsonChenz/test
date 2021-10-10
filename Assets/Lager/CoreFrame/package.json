@@ -1,0 +1,12 @@
+{
+  "name": "com.lager.core-frame",
+  "displayName": "CoreFrame",
+  "description": "The CoreFrame is a development framework for UI, Scene, Res and for All Platforms.",
+  "version": "1.4.1",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {},
+  "author": {
+    "name": "MichaelO"
+  },
+}
